@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        /*que buen programador soy /*
+        
         // put your code here
         ?>
     </body>
